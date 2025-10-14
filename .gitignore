@@ -1,0 +1,38 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# envs
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# logs
+logs
+*.log
+pids
+*.pid
+*.seed
+
+# build
+dist/
+.build/
+.next/
+out/
+coverage/
+.vscode/
+.DS_Store
+
+# OS
+Thumbs.db
+.idea/
+.vagrant/
+*.swp
+
+# npm
+package-lock.json
